@@ -1,0 +1,7 @@
+.DS_Store
+ms-deploy/env/*
+!ms-deploy/env/*.sample
+**/.env
+**/log/*
+!**/log/.keep
+
