@@ -6,7 +6,7 @@ Ads system from monolith to microservices architecture
 Getting Started
 -----------------
 
-Check the [wiki page](https://github.com/gotoinc/ruby-microservices-code-sample/wiki/Home) to understand full details.
+Check the [wiki page](https://github.com/lisovskyi0misha/ruby-microservices-code-sample/wiki) to understand full details.
 
 Description of the monolith application
 -----------------
